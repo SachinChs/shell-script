@@ -1,1 +1,1 @@
-echo "Building the project..."
+echo "Building the project...."
