@@ -34,7 +34,7 @@ pipeline {
 		stage('Deploy') {
             steps {
                   echo "Deploying to Stage Environment for more tests!";
-                  sh ./deploy.sh'
+                  sh './deploy.sh'
             }
         }
     }
